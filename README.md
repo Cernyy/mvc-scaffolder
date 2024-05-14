@@ -9,7 +9,7 @@ Use this script for your next MVC Entity Framework Application (.NET 8) and the 
 - Controllers
 - Views
 
-all from the Database.
+all from the Database, whilst installing all necessary packages.
 
 1. Write your SQL script for building up your database with tables.
 2. Get the Connection String for your Database.
