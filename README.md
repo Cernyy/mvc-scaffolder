@@ -1,5 +1,7 @@
 # 😎 mvc-scaffolder 😎
 
+Use this script for your next MVC Entity Framework Application (.NET 8) and the Database First Method. 
+
 #### Bash Script for generating:
 
 - Context
